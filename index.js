@@ -3,3 +3,4 @@ let divide = function() {
 }
 
 let square = (num, num) => num * num
+square(num, num)
